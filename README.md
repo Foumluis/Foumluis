@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋🏻 Hola a todos, me presento soy Luis-Felipe Cáceres
 
-<!--
-**Foumluis/Foumluis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Actualmente me encuentro estudiando la carrera de ingenieria informatica
 
-Here are some ideas to get you started:
+Podemos mantener el contacto mediante las siguientes redes sociales:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+</br>
+[![Instagram](https://img.shields.io/badge/Instagram-@mouredev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/luisfelipe.ca/)
+</br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/luis-felipe-c%C3%A1ceres-alarc%C3%B3n-25a005345/)
+
+
+
