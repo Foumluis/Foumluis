@@ -10,3 +10,7 @@ Podemos mantener el contacto mediante las siguientes redes sociales:
 Actualmente me encuentro en una etapa de poder probar nuevos proyecto y ideas, entre los logros que he podido obtener en esta area fue poder ganar una hackaton
 
 ![Mi foto](https://raw.githubusercontent.com/Foumluis/Foumluis/main/foto3.jpeg)
+
+Llevo ya tres años estudianto esta carrera y decirque antes de esta nunca en mi vida habia programado ni siquiera una linea de codigo, pero desde que empeze con esto nunca he parado, ya que encontre mas una carrera una vocacion en esto.
+
+Estoy totalmente dispuesto en poder colaborar en cualquier tipo de proyecto.
