@@ -9,3 +9,4 @@ Podemos mantener el contacto mediante las siguientes redes sociales:
 
 Actualmente me encuentro en una etapa de poder probar nuevos proyecto y ideas, entre los logros que he podido obtener en esta area fue poder ganar una hackaton
 
+![Mi foto](https://raw.githubusercontent.com/Foumluis/Foumluis/main/foto3.jpeg)
