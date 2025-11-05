@@ -1,15 +1,8 @@
-# 👋🏻 Hola a todos, me presento soy Luis-Felipe Cáceres
+👋🏻 Hola a todos, me presento soy Luis-Felipe Cáceres
 
-## Actualmente me encuentro estudiando la carrera de ingenieria informatica
+Actualmente me encuentro estudiando la carrera de ingeniería informática.
 
 Podemos mantener el contacto mediante las siguientes redes sociales:
 
-
-
-</br>
-[![Instagram](https://img.shields.io/badge/Instagram-@mouredev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/luisfelipe.ca/)
-</br>
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/luis-felipe-c%C3%A1ceres-alarc%C3%B3n-25a005345/)
-
-
-
+[![Instagram](https://img.shields.io/badge/Instagram-@luisfelipe.ca-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luisfelipe.ca/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luis--Felipe--Cáceres-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-felipe-c%C3%A1ceres-alarc%C3%B3n-25a005345/)
